@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dubofucofege.pages.dev/sitemap.xml
